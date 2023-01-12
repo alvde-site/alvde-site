@@ -143,15 +143,6 @@
 ## Github Stats
 <div align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=alvde-site&hide_border=true&layout=compact"
-    align="center"
-  />
-</div>
-
-<br />
-
-<div align="center">
-  <img
     src="https://komarev.com/ghpvc/?username=alvde-site&&style=flat-square"
     align="center"
   />
