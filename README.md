@@ -132,8 +132,14 @@
 <div align="center">
   <img
     src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"
-    alt="Wordpress"
-    title="Wordpress"
+    alt="Python"
+    title="Python"
+    height="25"
+  />
+  <img
+    src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white"
+    alt="Django"
+    title="Djagno"
     height="25"
   />
 </div>
