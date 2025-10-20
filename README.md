@@ -25,13 +25,12 @@
   </h1>
 </div>
 
-### О себе : 
-- 🔭 Frontend-разработчик 
-- 🧑‍💻 Хочу работать в команде
-профессионалов, создавая нужные людям продукты 
-- 📝 Стремлюсь к чистому
-красивому коду 
-- 🔥 Ищу боевые проекты, в которых могу быть полезным
+### О себе :
+
+- 🔭 Frontend-разработчик
+- 🧑‍💻 Работая в команде профессионалов, создаю продукты, которые действительно нужны людям
+- 📝 Стремлюсь к написанию чистого и красивого кода, следуя современным практикам разработки
+- 🔥 Открыт для новых боевых проектов, где могу применить свои навыки и внести значимый вклад
 
 <br />
 
@@ -51,15 +50,15 @@
     height="25"
   />
   <img
-    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
-    alt="TypeScript logo"
-    title="TypeScript"
+    src="https://img.shields.io/badge/Vue-344951?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D"
+    alt="Vue logo"
+    title="Vue"
     height="25"
   />
   <img
-    src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
-    alt="JavaScript logo"
-    title="JavaScript"
+    src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white"
+    alt="Nuxt logo"
+    title="Nuxt"
     height="25"
   />
 </div>
@@ -72,6 +71,18 @@
     src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
     alt="CSS3 logo"
     title="CSS3"
+    height="25"
+  />
+  <img
+    src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"
+    alt="TypeScript logo"
+    title="TypeScript"
+    height="25"
+  />
+  <img
+    src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E"
+    alt="JavaScript logo"
+    title="JavaScript"
     height="25"
   />
 </div>
@@ -147,6 +158,7 @@
 <br />
 
 ## Github Stats
+
 <div align="center">
   <img
     src="https://komarev.com/ghpvc/?username=alvde-site&&style=flat-square"
